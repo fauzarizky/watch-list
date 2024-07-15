@@ -25,6 +25,7 @@ export default function AuthForm() {
           magic_link: {
             button_label: "Sign in with link",
             link_text: "Sign in with link",
+            loading_button_label: "Sending link",
             confirmation_text: "Check your email for the Sign in link",
           },
         },
