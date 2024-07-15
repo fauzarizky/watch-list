@@ -23,6 +23,7 @@ export default function AuthForm() {
       localization={{
         variables: {
           magic_link: {
+            button_label: "Sign in with link",
             link_text: "Sign in with link",
             confirmation_text: "Check your email for the Sign in link",
           },
